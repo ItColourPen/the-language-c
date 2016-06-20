@@ -1,2 +1,2 @@
 # the-language-c
-### the C programming language <www.baidu.com>
+### the C programming language
